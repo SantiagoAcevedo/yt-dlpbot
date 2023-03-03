@@ -10,7 +10,7 @@ const youtubedl = require('youtube-dl-exec')
 const { Telegraf } = require('telegraf')
 const LocalSession = require('telegraf-session-local')
 const { Router, Markup } = Telegraf
-const BOT_TOKEN = '1495692552:AAEmcUdPCFBKKEW-fKX8SKTObMl0r9PIeSE';
+const BOT_TOKEN = '###';
 const app = new Telegraf(BOT_TOKEN);
 app.use((new LocalSession({ database: 'example_db.json' })).middleware())
 
