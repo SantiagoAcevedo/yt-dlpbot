@@ -1,7 +1,7 @@
 
 # yt-dlpbot
 
-Video downloader bot is a versatile tool that can download videos from multiple websites. It is based on both yt-dlp and youtube-dl-exec, ensuring the highest possible compatibility with a wide range of video hosting platforms.
+A video downloader bot is a versatile tool that can download videos from multiple websites. It is based on both yt-dlp and youtube-dl-exec, ensuring the highest possible compatibility with a wide range of video hosting platforms.
 
 ➡️ [🤖 Bot Test](https://t.me/YoutubeDlBr_bot)
 
