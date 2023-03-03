@@ -22,5 +22,5 @@ A video downloader bot is a versatile tool that can download videos from multipl
 
 ## ➡️ License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/SantiagoAcevedo/yt-dlpbot/blob/main/LICENSE.md)
 
