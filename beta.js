@@ -19,7 +19,7 @@ console.log('Iniciando Bot')
 const webserver = express()
 const port = 8080
 const modo_admin = true; // false - Neste modo somente pessoas com a ID definica na array Arr_Aut podem utilizar o bot
-const Arr_Aut = ["SUAIDDO CHAT TELEGRAM"]
+const Arr_Aut = ["YOURTELEGRAMCHATID"]
 const LimiteDL = 1024; //IN MB
 const LimiteArquivosDia = 10
 const oneDayInMs = 24 * 60 * 60 * 1000; // 24 hours * 60 minutes * 60 seconds * 1000 milliseconds
