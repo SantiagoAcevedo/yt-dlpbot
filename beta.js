@@ -104,7 +104,7 @@ function pega_info(url,chatid,msgID,msgcomURL){
         url = cleanUrl;              
     }
     console.log("Pegando informações da url "+url)
-    const timeout = 10000; // 30 seconds
+    const timeout = 10000; // 10 seconds
 
     const info_vid = youtubedl(url, {
         dumpSingleJson: true,
